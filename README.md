@@ -6,7 +6,7 @@ Dokumentasi hasil riset komprehensif dan spesifikasi rekayasa perangkat lunak un
 * [Proposed Features - Executive Summary & Prioritization Matrix](proposed-features-summary.md)
   * Matriks prioritas (P0/P1/P2), kelompok target pengguna, nilai manfaat bisnis, dan peta jalan implementasi 3 fase.
 * [Jadwal & Timeline Mingguan Proyek (November - Maret)](jadwal-kerja-mingguan.md)
-  * Matriks jadwal mingguan 20 minggu (Gantt chart), milestone bulanan, dan pembagian peran tim pengembang.
+  * Matriks 12 elemen jadwal kerja mingguan (Gantt chart), milestone bulanan, dan pembagian peran tim (Jusuf - Backend, Abdiyasa - Frontend, Naufal - Database).
 
 ---
 
@@ -62,7 +62,7 @@ Fitur-fitur yang belum ada di portal web saat ini, dirancang khusus untuk penggu
 
 ## 5. Project Schedule, Diagrams & KAK
 * [Jadwal & Timeline Mingguan Proyek (November - Maret)](jadwal-kerja-mingguan.md)
-  * Rencana kerja 20 minggu, milestone per fase, serta pembagian peran tim pengembang.
+  * Rencana kerja 12 elemen (20 minggu), milestone per fase, serta pembagian peran tim (Jusuf - Backend, Abdiyasa - Frontend, Naufal - Database).
 * [Diagram Perancangan Sistem (diagrams/)](diagrams/)
   * Use Case Diagram, Flowchart alur kerja modul, Sequence Diagram, dan Entity Relationship Diagram (ERD).
 * [Kerangka Acuan Kerja (KAK) Project Work](kak.docx)
