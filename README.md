@@ -5,6 +5,8 @@ Dokumentasi hasil riset komprehensif dan spesifikasi rekayasa perangkat lunak un
 ## Executive Summary
 * [Proposed Features - Executive Summary & Prioritization Matrix](proposed-features-summary.md)
   * Matriks prioritas (P0/P1/P2), kelompok target pengguna, nilai manfaat bisnis, dan peta jalan implementasi 3 fase.
+* [Jadwal & Timeline Mingguan Proyek (November - Maret)](jadwal-kerja-mingguan.md)
+  * Matriks jadwal mingguan 20 minggu (Gantt chart), milestone bulanan, dan pembagian peran tim pengembang.
 
 ---
 
@@ -55,3 +57,14 @@ Fitur-fitur yang belum ada di portal web saat ini, dirancang khusus untuk penggu
 ## 4. Technical Architecture
 * [features/15-technical-architecture-and-api-spec.md](features/15-technical-architecture-and-api-spec.md)
   * Diagram arsitektur sistem, rekomendasi teknologi lintas platform (Flutter / React Native), dan spesifikasi titik akhir (endpoints) REST API.
+
+---
+
+## 5. Project Schedule, Diagrams & KAK
+* [Jadwal & Timeline Mingguan Proyek (November - Maret)](jadwal-kerja-mingguan.md)
+  * Rencana kerja 20 minggu, milestone per fase, serta pembagian peran tim pengembang.
+* [Diagram Perancangan Sistem (diagrams/)](diagrams/)
+  * Use Case Diagram, Flowchart alur kerja modul, Sequence Diagram, dan Entity Relationship Diagram (ERD).
+* [Kerangka Acuan Kerja (KAK) Project Work](kak.docx)
+  * Dokumen resmi pengajuan KAK Project Work Program Studi Teknik Informatika Universitas Pamulang bersama mitra CV. TRENDLY.
+
